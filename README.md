@@ -1,0 +1,4 @@
+wysiwyg
+=======
+
+Legacy admin wysiwyg
